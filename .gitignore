@@ -1,0 +1,6 @@
+__pycache__/
+gunicorn_log.txt
+hello/
+index.html
+ouput.txt
+square/
